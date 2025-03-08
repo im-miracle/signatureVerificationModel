@@ -78,6 +78,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+#model save
+*.keras
+
 # IPython
 profile_default/
 ipython_config.py
